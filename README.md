@@ -1,0 +1,2 @@
+Este codigo sql esta hecho en orden para resolver una serie de ejercicios encontrados en: https://campus.devf.la/alumni/lectures/kata_backend/query_sql?type=project
+Cada ejercicio esta ubicado con un comentario que indica el numero del ejercicio y en algunos casos una explicación mas larga para explicar porque se realizaron algunas lineas de codigo.
